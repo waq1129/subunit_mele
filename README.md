@@ -7,4 +7,4 @@ https://papers.nips.cc/paper/5962-convolutional-spike-triggered-covariance-analy
 
 Run test_sim.m for simulation.
 
-Run test_neuron.m for a complex cell in V1 cortex.
+Run test_simneuron.m for a simulated complex cell.
